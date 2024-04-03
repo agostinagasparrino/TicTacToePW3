@@ -1,0 +1,16 @@
+C:\TicTacToePW3\TicTacToePW3\bin\Debug\net8.0-windows\TicTacToePW3.exe
+C:\TicTacToePW3\TicTacToePW3\bin\Debug\net8.0-windows\TicTacToePW3.deps.json
+C:\TicTacToePW3\TicTacToePW3\bin\Debug\net8.0-windows\TicTacToePW3.runtimeconfig.json
+C:\TicTacToePW3\TicTacToePW3\bin\Debug\net8.0-windows\TicTacToePW3.dll
+C:\TicTacToePW3\TicTacToePW3\bin\Debug\net8.0-windows\TicTacToePW3.pdb
+C:\TicTacToePW3\TicTacToePW3\obj\Debug\net8.0-windows\TicTacToePW3.Form1.resources
+C:\TicTacToePW3\TicTacToePW3\obj\Debug\net8.0-windows\TicTacToePW3.csproj.GenerateResource.cache
+C:\TicTacToePW3\TicTacToePW3\obj\Debug\net8.0-windows\TicTacToePW3.GeneratedMSBuildEditorConfig.editorconfig
+C:\TicTacToePW3\TicTacToePW3\obj\Debug\net8.0-windows\TicTacToePW3.AssemblyInfoInputs.cache
+C:\TicTacToePW3\TicTacToePW3\obj\Debug\net8.0-windows\TicTacToePW3.AssemblyInfo.cs
+C:\TicTacToePW3\TicTacToePW3\obj\Debug\net8.0-windows\TicTacToePW3.csproj.CoreCompileInputs.cache
+C:\TicTacToePW3\TicTacToePW3\obj\Debug\net8.0-windows\TicTacToePW3.dll
+C:\TicTacToePW3\TicTacToePW3\obj\Debug\net8.0-windows\refint\TicTacToePW3.dll
+C:\TicTacToePW3\TicTacToePW3\obj\Debug\net8.0-windows\TicTacToePW3.pdb
+C:\TicTacToePW3\TicTacToePW3\obj\Debug\net8.0-windows\TicTacToePW3.genruntimeconfig.cache
+C:\TicTacToePW3\TicTacToePW3\obj\Debug\net8.0-windows\ref\TicTacToePW3.dll
